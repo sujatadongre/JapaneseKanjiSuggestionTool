@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/sujata/Work/simple-log-2.0.1/simple-log.jar"/>
+	<classpathentry kind="lib" path="/Users/sujata/Work/simple-log-2.0.1/simple-log-rollover.jar"/>
+	<classpathentry kind="lib" path="/Users/sujata/Work/simple-log-2.0.1/adapters/simple-log-commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Users/sujata/Work/simple-log-2.0.1/adapters/simple-log-slf4j.jar"/>
+	<classpathentry kind="lib" path="/Users/sujata/Work/lucene-3.0.2/lucene-core-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
